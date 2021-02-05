@@ -1,6 +1,6 @@
 # This is a example of many-to-many relationship ruby
 
-    # many-to-many example from Evan Wang
+    # many-to-many example by Evan Wang
         - video: https://www.youtube.com/watch?v=gjVcYv_qm6s
         ****no sound**** 
 
